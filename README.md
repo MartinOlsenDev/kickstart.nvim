@@ -1,3 +1,5 @@
+Fork update remainder: Update this fork regularily.
+Update by fetching the upstream, merging upstream/master, and then merging.
 # kickstart.nvim
 
 ## Introduction
