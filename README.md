@@ -1,5 +1,9 @@
+##### Preface
 Fork update remainder: Update this fork regularily.
 Update by fetching the upstream, merging upstream/master, and then merging.
+
+If you must manually install neovim, get the official binary with associated libs. Install entire directory at `/opt/local`, then create a symbolic link with `# ln -s /opt/local/nvim-linux-x86_64/bin/nvim /usr/local/bin/nvim`. To update, simply replace the directory in `/opt` with the updated binary and lib files. This likely won't be necessary on systems with faster release models than Debian.
+
 # kickstart.nvim
 
 ## Introduction
